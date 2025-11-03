@@ -1,13 +1,13 @@
 
-> ⚠️ **Attention:** By using or modifying MoneyGuard, you agree to the Apache 2.0 terms. This project is for **educational purposes only**.
+> ⚠️ **Attention:** By using or modifying FiscOwl, you agree to the Apache 2.0 terms. This project is for **educational purposes only**.
 
 ---
 
-## What is MoneyGuard?
+## What is FiscOwl?
 
-MoneyGuard is **XDR for finances and small business operations**:
+FiscOwl is **XDR for finances and small business operations**:
 
-- Ingests financial and operational data automatically.  
+- Automatically ingests financial and operational data.  
 - Detects anomalies like suspicious transactions or missing inventory.  
 - Sends alerts before chaos strikes.  
 - Visualizes everything in a dashboard that doesn’t make your eyes bleed.
@@ -31,8 +31,9 @@ Basically, it’s like hiring a tiny, overworked SOC team… without the existen
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/MoneyGuard.git
-cd MoneyGuard
+git clone https://github.com/yourusername/FiscOwl.git
+cd FiscOwl
 python agent.py
 python dashboard.py
+
 
